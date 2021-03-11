@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "explosionSmoke",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.08333333333333333,
+  "sample": 60,
+  "speed": 0.5,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "e258af4d-53e7-40ad-91e7-55c5cc7329b5"
+            }
+          },
+          {
+            "frame": 0.016666666666666666,
+            "value": {
+              "__uuid__": "0565ccb6-2aee-465b-b725-2a64f57999eb"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "4bd95de5-9bb1-43b9-9688-ea938c829e83"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "da281b32-a88a-472d-946e-5e38211f042d"
+            }
+          },
+          {
+            "frame": 0.06666666666666667,
+            "value": {
+              "__uuid__": "91379576-969d-4d26-8e04-31a1515f767f"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

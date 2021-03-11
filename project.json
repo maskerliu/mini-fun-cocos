@@ -1,0 +1,8 @@
+{
+  "engine": "cocos2d-html5",
+  "packages": "packages",
+  "version": "2.4.3",
+  "name": "retro-snake-cocos",
+  "id": "4404bff7-c16a-45bb-b450-78bf07c84a58",
+  "isNew": false
+}
